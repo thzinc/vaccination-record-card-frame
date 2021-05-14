@@ -1,7 +1,7 @@
 const filename = "moderna.json";
 const maxLineLength = 157;
 const indentWidth = 3;
-const outputPrefix = "moderna-";
+const outputPrefix = "2d/moderna-";
 
 const fs = require("fs");
 const path = require("path");
