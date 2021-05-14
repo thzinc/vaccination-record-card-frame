@@ -6,7 +6,11 @@ I thought it was neat and wanted to make a pretty thing. I make no claims to the
 
 ![Visualization of Moderna mRNA vaccine sequence](images/moderna.svg)
 
-![Picture of frame with novelty vaccination record card displayed](images/frame-prototype.png)
+![Close-up photo of 3D-printed plaque of Moderna mRNA vaccine sequence](images/plaque.png)
+
+![Photo of frame with novelty vaccination record card displayed](images/frame-with-plaque.png)
+
+![Close-up photo of frame centered on plaque](images/frame-with-plaque-closeup.png)
 
 ## Quickstart
 
